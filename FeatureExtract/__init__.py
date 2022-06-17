@@ -1,3 +1,3 @@
 from FeatureExtract.feature_extract import RhythmTransFeature as RhythmTransFeature
 from FeatureExtract.feature_extract import PitchTransFeature as PitchTransFeature
-from FeatureExtract.util import Util as Util
+from FeatureExtract.feature_extract import Util as Util
